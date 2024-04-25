@@ -12,7 +12,7 @@ import java.io.IOException
  */
 class FCMNotificationSender {
     private val FCM_API = "https://fcm.googleapis.com/fcm/send"
-    val SERVER_KEY = "AAAAzQmCuwo:APA91bHgoDjt8VdFZwqjm-auqyXv6uAIRPRRna3jho_3kpTB35UR3lr5WUDqKd6F11WPbJlveADKKWifwZtfvZrKzJSjcmZcyGpdmhuK5Qtzrr-helGvpFwZLwRCLcRSyW0Vf0LP41Zz"
+    val SERVER_KEY = "<SERVER KEY>"
     var client: OkHttpClient = OkHttpClient()
 
     /**
