@@ -1,4 +1,4 @@
-# CSCI 5708 Mobile Computing - G05-G - Project - CareBridge
+# Project - CareBridge
 
 This is the readme file for the project CareBridge. The project is developed for CSCI 5708 Mobile Computing at Dalhousie University.
 
