@@ -1,19 +1,19 @@
 # CSCI 5708 Mobile Computing - G05-G - Project - CareBridge
 
-This is the readme file for the project CareBridge. The project is developed by G05-G for the course CSCI 5708 Mobile Computing at Dalhousie University.
+This is the readme file for the project CareBridge. The project is developed for CSCI 5708 Mobile Computing at Dalhousie University.
 
 ## Authors
 
-- [Akshat Shah](akshat.shah@dal.ca) - B00971354
-- [Aman Desai](amandesai@dal.ca) - B00965752
-- [Dharmil Shah](dharmilnshah@dal.ca) – B00965853
-- [Divyank Shah](dv491067@dal.ca) - B00966377
-- [Harsh Mehta](hr699843@dal.ca) – B00968228
-- [Nikunj Hudka](nikunj.hudka@dal.ca) - B00959783
-- [Parth Gajera](pr769932@dal.ca) – B00948964
-- [Shyamal Prajapati](sgp@dal.ca) - B00958501
-- [Suyash Jhawer](sy326775@dal.ca) - B00968936
-- [Tirth Bharatiya](tr608606@dal.ca) - B00955618
+- [Akshat Shah](akshat.shah@dal.ca)
+- [Aman Desai](amandesai@dal.ca) 
+- [Dharmil Shah](dharmilnshah@dal.ca) 
+- [Divyank Shah](dv491067@dal.ca) 
+- [Harsh Mehta](hr699843@dal.ca) 
+- [Nikunj Hudka](nikunj.hudka@dal.ca)
+- [Parth Gajera](pr769932@dal.ca) 
+- [Shyamal Prajapati](sgp@dal.ca) 
+- [Suyash Jhawer](sy326775@dal.ca) 
+- [Tirth Bharatiya](tr608606@dal.ca) 
 
 ## Project Description
 
